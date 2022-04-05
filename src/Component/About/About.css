@@ -1,0 +1,56 @@
+.about_us{
+    padding: 50px 100px 0px 100px;
+}
+.about_us h2{
+    font-size: 28px;
+    font-weight: 500;
+    color:#333;
+}
+
+.about_us span{
+    color: #808080;
+    margin: 0px 0px 0px 0px;
+}
+
+.shop_info h3{
+    font-size: 19px;
+    color: #333;
+    margin: 11px 0px -15px 0px;
+}
+
+.shop_info h1{
+    font-size: 25px;
+    color: #EF8F00;
+}
+.shop_info p{
+    color: #808080;
+    margin: 0px 0px 6px 0px;
+}
+
+.about_shop img{
+    height: 400px;
+}
+
+.octa_footer h2{
+    color: 	#a9a9a9;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+@media screen and (max-width: 1199px) {
+}
+@media screen and (max-width: 991px) {
+    .about_shop img {
+        height: 300px;
+    }
+    
+}
+@media screen and (max-width: 767px) {
+    .about_shop img {
+        height: 280px;
+    }
+}
+@media screen and (max-width: 576px) {
+}

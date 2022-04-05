@@ -1,0 +1,26 @@
+.load_box{
+    display: flex;
+    width: 330px
+}
+
+.img_load {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img_load img{
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+}
+
+.design{
+    font-size: 11px;
+    font-weight: 400;
+    color: #383838;
+  
+}
+.star_t {
+    margin: -15px 0px 0px -120px;
+    font-size: 8px;
+}
