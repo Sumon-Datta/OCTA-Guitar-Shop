@@ -1,3 +1,15 @@
+# OCTA Guitar Shop
+
+# bullet point of working list
+
+*  I am using routes in my website
+*  I am using dynamic reharts in my website
+*  I am using dynamic user review page
+*  I am using Destructuring in my website
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
